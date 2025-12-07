@@ -1,10 +1,9 @@
-(** * Projeto de LC1 - 2024-2 (30 pontos)  *)
+(** * Projeto de PAA - 2025-2  *)
 
 (*
 Nome e matrícula dos participantes:
-1.
-2.
-3.
+1.  Brenda Barbosa de Souza (202037622)
+2.  Thelma Evangelista dos Santos (231003513)
 *)
 
 (* begin hide *)
@@ -13,11 +12,6 @@ Require Import List.
 Require Import Lia.
 Require Import Permutation.
 (* end hide *)
-
-(** ** Introdução  *)
-(** Esta é a introdução ... *)
-
-(** * Ordenação por Inserção binária *)
 
 Require Import List Arith Lia.
 Require Import Permutation.
